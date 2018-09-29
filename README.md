@@ -2,7 +2,7 @@
 
 ## AI
 ### lab9
-Simulated annealing : [https://pastebin.com/aSsfWTmx](https://pastebin.com/aSsfWTmx)
+Simulated annealing(incomplete) : [https://gist.github.com/GelaniNijraj/171226b1556919683970e60b02407de4](https://gist.github.com/GelaniNijraj/171226b1556919683970e60b02407de4)
 
 ## CC 
 ### lab9
