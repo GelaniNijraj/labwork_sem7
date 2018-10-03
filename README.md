@@ -3,6 +3,8 @@
 ## AI
 ### lab9
 Simulated annealing(incomplete) : [https://gist.github.com/GelaniNijraj/171226b1556919683970e60b02407de4](https://gist.github.com/GelaniNijraj/171226b1556919683970e60b02407de4)
+### lab10
+Block word using hill climbing : [https://gist.github.com/GelaniNijraj/7f4493b1d83b378855302b40c990efbb](https://gist.github.com/GelaniNijraj/7f4493b1d83b378855302b40c990efbb)
 
 ## CC 
 ### lab9
